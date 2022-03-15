@@ -1,14 +1,11 @@
 # thirdTest
-<<<<<<< HEAD
+
 ## main
 ## mainEdit
-=======
-## braA
-<<<<<<< HEAD
->>>>>>> braA
-## mainEdit in braB
-=======
-## braC
->>>>>>> braC
 
+## braA
+## mainEdit in braB
+## braC
 ## mainEdit in braC
+
+stashのテスト
